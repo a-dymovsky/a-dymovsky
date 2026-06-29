@@ -1,16 +1,19 @@
-## Hi there 👋
+# Alex Dymovsky
 
-<!--
-**a-dymovsky/a-dymovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analytics engineer** working across the full data stack. Instrumenting events where they're born, governing the systems they flow through, and modeling them into something teams can rely on.
 
-Here are some ideas to get you started:
+Economics undergrad, applied-statistics MS. Currently building data infrastructure at Teachers College, Columbia — from GA4 instrumentation and Salesforce administration through to a BigQuery + dbt analytics layer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack
+
+| | |
+|---|---|
+| **Languages** | Python · SQL · Apex · JavaScript |
+| **Data & warehouse** | dbt · DuckDB · BigQuery · Snowflake · Airflow · Parquet |
+| **Analytics** | GA4 · GTM · Looker Studio |
+| **Platforms** | Salesforce · Marketing Cloud · AWS |
+
+---
+

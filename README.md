@@ -26,3 +26,5 @@ Economics undergrad, applied statistics MS. Currently building data infrastructu
 - *SQL Performance Explained* — Markus Winand
 - *Structure and Interpretation of Computer Programs* — Harold Abelson and Gerald Jay Sussman with Julie Sussman
 - *The C++ Programming Language* — Bjarne Stroustrup
+- *Statistical Rethinking* — Richard McElreath
+- *The Great Depression and the New Deal: A Very Short Introduction* — Eric Rauchway

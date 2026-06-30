@@ -17,3 +17,12 @@ Economics undergrad, applied statistics MS. Currently building data infrastructu
 
 ---
 
+### On My Desk
+- *Learning SQL* — Alan Beaulieu
+- *Modern Operating Systems* — Andrew S. Tanenbaum and Herbert Bos
+- *Computer Organization and Design* — David A. Patterson and John L. Hennessy
+- *Computer Systems: A Programmer's Perspective* — Randal E. Bryant and David R. O'Hallaron
+- *Fluent Python* — Luciano Ramalho
+- *SQL Performance Explained* — Markus Winand
+- *Structure and Interpretation of Computer Programs* — Harold Abelson and Gerald Jay Sussman with Julie Sussman
+- *The C++ Programming Language* — Bjarne Stroustrup

@@ -1,8 +1,8 @@
 # Alex Dymovsky
 
-**Analytics engineer** working across the full data stack. Instrumenting events where they're born, governing the systems they flow through, and modeling them into something teams can rely on.
+Senior application analyst and systems developer working across the full data stack. Instrumenting events where they're born, governing the systems they flow through, and modeling them into something teams can rely on.
 
-Economics undergrad, applied-statistics MS. Currently building data infrastructure at Teachers College, Columbia — from GA4 instrumentation and Salesforce administration through to a BigQuery + dbt analytics layer.
+Economics undergrad, applied-statistics MS. Currently building data infrastructure at Teachers College, Columbia. Professional experience in GA4 instrumentation and Salesforce administration through to BigQuery + dbt analytics layer.
 
 ---
 

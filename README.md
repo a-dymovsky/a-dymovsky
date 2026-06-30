@@ -11,9 +11,12 @@ Economics undergrad, applied statistics MS. Currently building data infrastructu
 | | |
 |---|---|
 | **Languages** | Python · SQL · Apex · JavaScript · Rust · C/C++ |
+| **Statistical Computing** | R · SPSS · Stata · NVivo |
 | **Data & warehouse** | Oracle · PostgreSQL · dbt · DuckDB · BigQuery · Snowflake · Airflow · Parquet |
 | **Analytics** | GA4 · GTM · Tableau · Looker Studio |
-| **Platforms** | Salesforce · Marketing Cloud · AWS |
+| **Platforms** | Salesforce · Marketing Cloud |
+| **Cloud** | AWS · Google Cloud · Microsoft Azure |
+| **Project Management** | Atlassian · Linear · Asana · ServiceNow · Figma |
 
 ---
 

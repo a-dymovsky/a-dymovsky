@@ -1,6 +1,6 @@
 # Alex Dymovsky
 
-Senior application analyst and systems developer working across the full data stack. Professioanl experience in instrumenting events where they're born, governing the systems they flow through, and modeling them into something teams can rely on.
+Senior application analyst and systems developer working across the full data stack. Professional experience in instrumenting events where they're born, governing the systems they flow through, and modeling them into something teams can rely on.
 
 Economics undergrad, applied statistics MS. Currently building data infrastructure at Teachers College, Columbia University. I enjoy the full span of data work, from analysis through engineering. Outside of work I'm drawn to how monetary systems work and where they break: forensic accounting, cryptocurrency, and economic history.
 

@@ -8,6 +8,8 @@ Economics undergrad, applied statistics MS. Currently building data infrastructu
 
 ### Stack
 
+| | |
+|---|---|
 | **Languages** | Python · SQL · Apex · JavaScript · Rust · C/C++ |
 | **Data & warehouse** | Oracle · PostgreSQL · dbt · DuckDB · BigQuery · Snowflake · Airflow · Parquet |
 | **Analytics** | GA4 · GTM · Tableau · Looker Studio |

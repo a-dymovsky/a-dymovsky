@@ -8,7 +8,7 @@ Economics undergrad, applied statistics MS. Currently building data infrastructu
 
 ### Projects
 
-**[ga4-elt-pipeline](https://github.com/a-dymovsky/ga4-elt-pipeline)** - An ELT pipeline for GA4's BigQuery export. Raw events land as Parquet, get transformed in DuckDB, modeled with dbt, and orchestrated on Airflow. Intended as an example of the modern data stack end-to-end, free, and runnable on a laptop. `Python` · `dbt` · `DuckDB` · `Airflow` · `Parquet`
+- **[ga4-elt-pipeline](https://github.com/a-dymovsky/ga4-elt-pipeline)** - An ELT pipeline for GA4's BigQuery export. Raw events land as Parquet, get transformed in DuckDB, modeled with dbt, and orchestrated on Airflow. Intended as an example of the modern data stack end-to-end, free, and runnable on a laptop. `Python` · `dbt` · `DuckDB` · `Airflow` · `Parquet` · `Docker`
 
 ---
 ### Stack

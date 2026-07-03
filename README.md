@@ -9,7 +9,7 @@ Economics undergrad, applied statistics MS. Currently building data infrastructu
 ### Projects
 
 - **[ga4-elt-pipeline](https://github.com/a-dymovsky/ga4-elt-pipeline)** - An ELT pipeline for GA4's BigQuery export. Raw events land as Parquet, get transformed in DuckDB, modeled with dbt, and orchestrated on Airflow. Intended as an example of the modern data stack end-to-end (including basic tests), free, and runnable on a laptop. `Python` · `dbt` · `DuckDB` · `Airflow` · `Parquet` · `Docker`
-- **[ms-applied-statistics](https://github.com/a-dymovsky/ms-applied-statistics)** Where I received my training in statistical analysis. Bayesian modeling of educational outcomes (R) and United States census data analysis (Python). Kept intact as a representation of foundational learning rather than polished into a highlight reel.
+- **[ms-applied-statistics](https://github.com/a-dymovsky/ms-applied-statistics)** - Where I received my training in statistical analysis. Bayesian modeling of educational outcomes (R) and United States census data analysis (Python). Kept intact as a representation of foundational learning rather than polished into a highlight reel. `Python` · `R`
 
 ---
 ### Stack
